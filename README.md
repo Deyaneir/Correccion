@@ -1,6 +1,8 @@
 # Correccion
 Link del video: [
-](https://youtu.be/CBmVcZlbKt4)Capturas: ![Captura de Pantalla 2024-11-06 a la(s) 12 06 34](https://github.com/user-attachments/assets/b53fac53-038d-4aa6-b6a0-df7699475c73)
+](https://youtu.be/CBmVcZlbKt4)
+
+Capturas: ![Captura de Pantalla 2024-11-06 a la(s) 12 06 34](https://github.com/user-attachments/assets/b53fac53-038d-4aa6-b6a0-df7699475c73)
 ![Captura de Pantalla 2024-11-06 a la(s) 12 07 14](https://github.com/user-attachments/assets/919e8efb-fbff-4e52-a832-300eeb40a1f6)
 Capturas del codigo:
 Cuadrado: ![Captura de Pantalla 2024-11-06 a la(s) 12 09 48](https://github.com/user-attachments/assets/03187002-2a3f-491b-9db3-d6ff935cde3c)
